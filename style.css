@@ -1,0 +1,67 @@
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+
+body {
+  font-family: 'Open Sans', serif;
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  margin: 0px;
+  padding: 150px;
+}
+
+section, footer {
+  margin: 0px;
+  padding: 75px;
+}
+
+h1, h2, h4, p, p2 {
+  font-family: 'Raleway', serif;
+  color: black;
+  text-shadow: 1px 1px grey;
+}
+
+header {
+  background-image: url("images/orangepeonies.jpg");
+
+}
+
+.About {
+  background-color: papayawhip;
+}
+
+.Recipes {
+  background-color: thistle;
+}
+
+.Recruitment {
+  background-image: url("images/computer.jpg")
+}
+
+
+
+footer {
+  background-image: url("images/Wildflower.jpg");
+}
+
+img {
+  margin: 10px;
+  width: 28%;
+}
+
+/* Font Families Downloaded
+
+font-family: 'Open Sans', sans-serif;
+font-family: 'Slabo 27px', serif;
+font-family: 'Aref Ruqaa', serif;
+font-family: 'Raleway', sans-serif;
+font-family: 'Lora', serif;
+
+*/
