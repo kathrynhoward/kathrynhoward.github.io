@@ -29,7 +29,7 @@ h1, h2, h4, p, p2 {
 }
 
 header {
-  background-image: url("images/orangepeonies.jpg");
+  background-image: url("orangepeonies.jpg");
 
 }
 
@@ -42,13 +42,13 @@ header {
 }
 
 .Recruitment {
-  background-image: url("images/computer.jpg")
+  background-image: url("computer.jpg")
 }
 
 
 
 footer {
-  background-image: url("images/Wildflower.jpg");
+  background-image: url("Wildflower.jpg");
 }
 
 img {
